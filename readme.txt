@@ -32,9 +32,7 @@ demonstrating github webhook trigger
 
 trigering job
 
-new commit changes
-
-
+new commit changes again
 
 demostrating poll SCM
 again generating build
